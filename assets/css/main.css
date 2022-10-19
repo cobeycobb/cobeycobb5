@@ -4080,8 +4080,7 @@ input, select, textarea {
  cover;
 			background-position: center,
  center;
- background-attachment: fixed,
- fixed;
+ 
 
 			margin-top: -6.5em;
 			padding-top: 6.5em;
